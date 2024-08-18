@@ -44,7 +44,7 @@ const Footer = () => {
         <div className="left">
           <span className="logo">NIRVANA</span>
           <span className="copyright">
-            by <a className="link" href="https://x.com/ananyxgupta"><em>Ananya Gupta</em></a> © Copyright 2023. All Rights Reserved
+            by <a className="link" href="https://x.com/ananyxgupta"><em>Ananya Gupta</em></a> © Copyright 2024. All Rights Reserved
           </span>
         </div>
         <div className="right">
