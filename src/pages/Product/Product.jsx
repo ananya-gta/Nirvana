@@ -50,7 +50,7 @@ const Product = () => {
         </button>
         <div className="links">
           <div className="item">
-            <FavoriteBorderIcon /> ADD TO WISH LIST
+            <FavoriteBorderIcon /> ADD TO WISHLIST
           </div>
           <div className="item">
             <BalanceIcon /> ADD TO COMPARE
