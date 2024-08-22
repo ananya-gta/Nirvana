@@ -11,9 +11,9 @@ Nirvana is a full-stack e-commerce shopping store web application. This reposito
 
 ## Screenshots
 
-![Home Page](./client/public/img/home.png)
-![Products Page](./client/public/img/products.png)
-![Cart Page](./client/public/img/product.png)
+![Home Page](/public/img/home.png)
+![Products Page](/public/img/products.png)
+![Cart Page](/public/img/product.png)
 
 
 
